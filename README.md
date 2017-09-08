@@ -1,5 +1,8 @@
 # Fabflix-Movie
+
   Movies search and purchase website
+  
+  Using Ajax, J2EE, MySQL, Tomcat.
   
   In the WebContent folder, there are all the html and jsp files which are used to display content.
  
